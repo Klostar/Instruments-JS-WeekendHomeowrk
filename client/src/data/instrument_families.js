@@ -1,4 +1,4 @@
-const instrumentFamilies = [
+class instrumentFamilies = [
   {
     name: 'Brass',
     description: 'A brass instrument is a musical instrument that produces sound by sympathetic vibration of air in a tubular resonator in sympathy with the vibration of the player\'s lips',
@@ -26,4 +26,4 @@ const instrumentFamilies = [
   }
 ];
 
-module.exports = instrumentFamilies;
+export class instrumentFamilies;

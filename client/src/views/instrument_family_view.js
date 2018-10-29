@@ -45,4 +45,4 @@ InstrumentFamilyView.prototype.createInstrumentList = function (instruments) {
   return list;
 };
 
-export class InstrumentFamilyView;
+export deafult InstrumentFamilyView;

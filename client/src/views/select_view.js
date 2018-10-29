@@ -25,4 +25,4 @@ SelectView.prototype.populate = function (instrumentFamilyData) {
   });
 };
 
-export class SelectView;
+export deafult SelectView;

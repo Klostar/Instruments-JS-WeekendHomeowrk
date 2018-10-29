@@ -11,4 +11,4 @@ class PubSub = {
   }
 };
 
-export class PubSub;
+export deafult PubSub;

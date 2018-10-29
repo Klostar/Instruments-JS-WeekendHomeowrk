@@ -26,4 +26,4 @@ class instrumentFamilies = [
   }
 ];
 
-export class instrumentFamilies;
+export default instrumentFamilies;
